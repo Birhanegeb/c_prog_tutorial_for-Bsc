@@ -71,7 +71,3 @@ gcc -Wall -o a1_p1 a1_p1.c
 - This repository is intended for learning and coursework practice.
 - The files are named according to assignment and problem number.
 - Use the source code as a reference for understanding C programming concepts.
-
-## License
-
-This project is for academic learning purposes and is not intended for commercial use unless otherwise stated by the course or institution.
