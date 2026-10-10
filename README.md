@@ -1,6 +1,6 @@
 # C Programming Tutorial and Assignments
 
-This repository contains C programming practice exercises and coursework completed during a B.Sc. level programming course. It includes multiple assignment folders with problem solutions written in C.
+This repository contains C programming practice exercises and coursework for BSc Computer science students. It includes assignment folders with problem solutions written in C.
 
 ## Overview
 
@@ -49,6 +49,19 @@ The projects in this workspace are organized by assignment and each file focuses
 - `a4_p10.c` - compute product, division, power, and reciprocal using pointer arguments
 - `a4_p11.c` - count occurrences of letters in a string without case sensitivity
 - `a4_p12.c` - replace all occurrences of one character with another in a string
+
+### Assignment 5
+- `a5_p1.c` - print a triangular pattern of a chosen character and size
+- `a5_p2.c` - divide each value in a floating-point array by 5
+- `a5_p3.c` - count lowercase letters in strings entered by the user
+- `a5_p4.c` - dynamically allocate an array and divide every value by 5
+- `a5_p5.c` - compute vector dot products and find the smallest and largest entries
+- `a5_p6.c` - count how many elements appear before the first negative value
+- `a5_p7.c` - concatenate two strings using dynamically allocated memory
+- `a5_p8.c` - multiply two matrices and print the result
+- `a5_p9.c` - display the sections of a 3D array across its depth dimension
+- `a5_p10.c` - recursively print the countdown from n down to 1
+- `a5_p11.c` - determine whether a number is prime using recursion
 
 ## How to Run a Program
 
